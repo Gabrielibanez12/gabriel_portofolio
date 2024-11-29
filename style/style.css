@@ -142,6 +142,7 @@ header ul li a:hover {
 
 .field-image-home img {
     width: 350px;
+    height: auto;
     border-radius: 50%;
 }
 
